@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.33.1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.33.0...v1.33.1) (2025-08-08)
+
+
+### Miscellaneous Chores
+
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.99.5 ([#28](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/28)) ([dbd67c6](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/dbd67c69a120eeeab17e0d064dbaf91dc1bad39b))
+* **terraform:** update version constraints for dependencies ([#30](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/30)) ([e088f40](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/e088f400014a9c79eac3019dcb9e8c9001092d41))
+
 ## [1.33.0](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.32.1...v1.33.0) (2025-06-19)
 
 
