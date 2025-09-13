@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.0...v1.34.1) (2025-09-13)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token digest to 6701853 ([#44](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/44)) ([2c54e76](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/2c54e76062a7a8416e1d3b5b5f163b929fea8107))
+
 ## [1.34.0](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.33.2...v1.34.0) (2025-09-13)
 
 
