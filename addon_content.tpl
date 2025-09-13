@@ -140,6 +140,7 @@ rules:
   - csinodes
   - csidrivers
   - csistoragecapacities
+  - volumeattachments
   verbs:
   - watch
   - list
