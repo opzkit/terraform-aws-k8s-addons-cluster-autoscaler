@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.0](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.33.2...v1.34.0) (2025-09-13)
+
+
+### Features
+
+* add volumeattachments to the list of resources ([#42](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/42)) ([8b211b1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/8b211b125d7fd2eedeb146a9c5306b17141ec6de))
+
 ## [1.33.2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.33.1...v1.33.2) (2025-09-13)
 
 
