@@ -1,5 +1,47 @@
 # Changelog
 
+## [1.34.2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.1...v1.34.2) (2025-11-28)
+
+
+### Bug Fixes
+
+* remove unnecessary package rules from renovate config ([#84](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/84)) ([818f799](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/818f799b14b59d9ccae95f440200c11fc69f49ef))
+* **versions:** update version constraints for dependencies ([#97](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/97)) ([ecc164e](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/ecc164eae4a4625ce06899280681a3f4f7cf3c72))
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#90](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/90)) ([129f785](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/129f7851062ba8025cdb90d5e6eadb55e2522439))
+* **deps:** update actions/checkout action to v6 ([#92](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/92)) ([273b7f1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/273b7f183e027403fa704ca7e64392375c4c38b4))
+* **deps:** update actions/checkout digest to 93cb6ef ([#89](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/89)) ([fca7a6b](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/fca7a6b2ccda556463994828d1a1dbd5f548fac3))
+* **deps:** update actions/create-github-app-token digest to 7e473ef ([#93](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/93)) ([eaa8f12](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/eaa8f125a4d699bd228fb8cba3e6895faa18a510))
+* **deps:** update actions/setup-python action to v6.1.0 ([#96](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/96)) ([94cbe64](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/94cbe64e62a107172c36ebc2cf6b610f7533b6b9))
+* **deps:** update googleapis/release-please-action digest to 16a9c90 ([#86](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/86)) ([f346215](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/f346215d151b0d9c58775f26c2967cd2956295c5))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.101.1 ([#69](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/69)) ([35eb854](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/35eb854d5ee5249a422bbf992365e49ad37e9cdb))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.102.0 ([#82](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/82)) ([44f96a4](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/44f96a41a0ed0ec20b6d9abff1f44342dddb2058))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.103.0 ([#85](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/85)) ([8c9342c](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/8c9342cc4213aee7fc3cd3f3affd2b85485957a0))
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.104.0 ([#91](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/91)) ([f043e85](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/f043e856a69a5800aa24180ee2255715f65e6d88))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.143.2 ([#70](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/70)) ([649ca22](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/649ca228864f0bf9dcafd703b794df50b009694b))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.143.3 ([#72](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/72)) ([e51eaba](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/e51eabaa2ef91a8ba43b8a5d4284e0a6a2ebe419))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.144.0 ([#73](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/73)) ([0f62193](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/0f6219381cae4032ebf625662030ec7a3bc9c571))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.144.1 ([#74](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/74)) ([526a79b](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/526a79b778c22e8ab19692c2532cbc9ee931e64b))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.144.3 ([#75](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/75)) ([3d8fdc2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/3d8fdc23cd42a737e594a66c4da150999307dd81))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.144.4 ([#76](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/76)) ([5002830](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/5002830c9f530fe420cb63ee97f1dd0f7102eefe))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.145.1 ([#77](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/77)) ([3a6be2d](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/3a6be2db7a4208f2f6c6c826c84e3d96f9248776))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.145.3 ([#78](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/78)) ([377cbf3](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/377cbf3fde43662e8044641fd363d8b807e2a2ca))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.146.0 ([#79](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/79)) ([543f083](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/543f0835af25a6fc64141c46c79ff048f588091f))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.148.1 ([#81](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/81)) ([9403263](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/94032636afd8ef7cd3a555260ed4f237101b53a3))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.149.2 ([#83](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/83)) ([5b8362c](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/5b8362c14cfcfe287563531c6d766a77d987a1ff))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v41.173.1 ([#94](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/94)) ([82a3388](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/82a3388f24c4ba10a55d39de95ae07f27aa9cb18))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v42 ([#95](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/95)) ([dee0bbb](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/dee0bbb55d1b5d662c071493fbfefa3b0c4e42da))
+* **deps:** update terraform-linters/setup-tflint action to v6.2.1 ([#87](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/87)) ([62ff161](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/62ff1610486a350d9645920b650e5e9a59290960))
+* **workflow:** improve PR auto-merge by using app token ([#88](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/88)) ([fdcf943](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/fdcf943674d98ca9df1a100d9bf3bd3692d6f9b7))
+
+
+### Continuous Integration
+
+* add daily schedule for Renovate pre-commit hook updates ([#80](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/80)) ([095f5c2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/095f5c29378fc96a248292742ad691626c803699))
+
 ## [1.34.1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.0...v1.34.1) (2025-10-09)
 
 
