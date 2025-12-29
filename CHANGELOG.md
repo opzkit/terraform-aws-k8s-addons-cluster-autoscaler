@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.34.3](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.2...v1.34.3) (2025-12-29)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v6.0.1 ([#99](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/99)) ([2de978b](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/2de978b07c020e539f5bd6f02e41917a8a6fe12e))
+* **deps:** update actions/checkout digest to 8e8c483 ([#98](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/98)) ([d63f7a1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/d63f7a15b0c99c14a37902a288604449a1ddb322))
+* **deps:** update actions/create-github-app-token digest to 29824e6 ([#101](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/101)) ([aee5bd2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/aee5bd207fd30853a93ed98849a91ceaf586cc4d))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v42.39.2 ([#102](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/102)) ([8711429](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/87114290a834cc59d990f25f8642b557e47f66f5))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v42.64.1 ([#103](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/103)) ([376e827](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/376e827a741c2e626dfbed9aee26d51df6d9c8d9))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v42.66.11 ([#104](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/104)) ([fcb1f05](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/fcb1f059c5cc1c7e0bb99b95f944014d24ea32fe))
+
 ## [1.34.2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.1...v1.34.2) (2025-11-28)
 
 
