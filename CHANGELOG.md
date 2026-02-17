@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.34.4](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.3...v1.34.4) (2026-02-17)
+
+
+### Bug Fixes
+
+* use floor version constraints for provider versions ([#119](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/119)) ([695c630](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/695c630b10f9dc81df50fe66191fb612bba7a03a))
+
+
+### Miscellaneous Chores
+
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.15.1 ([#118](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/118)) ([0c7aa1c](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/0c7aa1c6142baf94165949546d9881544a3f1506))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.4.3 ([#116](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/116)) ([861459d](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/861459d1f96e0cf2a6a5e643ea86893210308e59))
+
 ## [1.34.3](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.2...v1.34.3) (2026-02-07)
 
 
