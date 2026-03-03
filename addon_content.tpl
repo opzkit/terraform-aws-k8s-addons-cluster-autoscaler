@@ -287,7 +287,7 @@ spec:
       containers:
       - command:
         - ./cluster-autoscaler
-        - --balance-similar-node-groups=false
+        - --balance-similar-node-groups=${balance_similar_node_groups}
         - --cloud-provider=aws
         - --aws-use-static-instance-list=false
         - --expander=random

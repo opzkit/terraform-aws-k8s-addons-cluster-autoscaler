@@ -14,9 +14,11 @@ output "addons" {
     for asTag, k8sVersion in local.versions :
     {
       content = templatefile("${path.module}/addon_content.tpl", {
-        image_tag    = asTag
-        replicas     = var.replicas
-        cluster_name = var.cluster_name
+        image_tag                   = asTag
+        replicas                    = var.replicas
+        cluster_name                = var.cluster_name
+        balance_similar_node_groups = var.balance_similar_node_groups
+
       })
       kubernetes_version = k8sVersion
       version            = asTag
