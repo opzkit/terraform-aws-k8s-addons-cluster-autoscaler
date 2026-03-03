@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.35.0](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.4...v1.35.0) (2026-03-03)
+
+
+### Features
+
+* parameterize balance_similar_node_groups for autoscaler ([#124](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/124)) ([0b72722](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/0b72722a3e84b8aebc1c17d4d24011320ebf2b5d))
+
+
+### Miscellaneous Chores
+
+* **deps:** update hashicorp/setup-terraform action to v4 ([#122](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/122)) ([2201779](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/2201779e7940e41a7e0ef374b3cffb4d55ff7787))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.31.1 ([#120](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/120)) ([8fa491f](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/8fa491f0d87faf05e8d06cbe54125fd443e4405a))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.46.6 ([#123](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/123)) ([135f252](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/135f252e7bec2061714d73d4ebda465dc3a21b55))
+
 ## [1.34.4](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.3...v1.34.4) (2026-02-17)
 
 
