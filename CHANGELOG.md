@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.35.1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.35.0...v1.35.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* add DRA RBAC permissions and remove EOL k8s versions ([#131](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/131)) ([a67d524](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/a67d5249ec3956bbde9c651774c74466c36447ac))
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/create-github-app-token action to v3 ([#129](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/129)) ([6c4c223](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/6c4c223f0abd1faa54a4ae3d203b68e0442423f4))
+* **deps:** update actions/create-github-app-token digest to fee1f7d ([#127](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/127)) ([500ace4](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/500ace4482acee9300d9ebec22c1d68f52ad7245))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.59.4 ([#125](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/125)) ([ccef4bb](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/ccef4bb34751d2d77210ec385e5030bcd3270839))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v43.76.2 ([#130](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/130)) ([7538ee8](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/7538ee82c8d9eef5d3263889076d763e8a12d468))
+* **deps:** update terraform-linters/setup-tflint action to v6.2.2 ([#128](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/128)) ([6e5055c](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/6e5055c1974dfcb674e2654177f1e2f983a0651d))
+
 ## [1.35.0](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.34.4...v1.35.0) (2026-03-03)
 
 
