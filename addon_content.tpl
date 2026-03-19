@@ -167,6 +167,16 @@ rules:
   verbs:
   - get
   - update
+- apiGroups:
+  - resource.k8s.io
+  resources:
+  - deviceclasses
+  - resourceclaims
+  - resourceslices
+  verbs:
+  - watch
+  - list
+  - get
 
 ---
 
