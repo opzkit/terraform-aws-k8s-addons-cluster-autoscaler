@@ -301,7 +301,7 @@ spec:
         - --cloud-provider=aws
         - --aws-use-static-instance-list=false
         - --expander=random
-        - --scale-down-utilization-threshold=0.5
+        - --scale-down-utilization-threshold=${scale_down_utilization_threshold}
         - --skip-nodes-with-local-storage=false
         - --skip-nodes-with-system-pods=false
         - --scale-down-delay-after-add=10m0s
