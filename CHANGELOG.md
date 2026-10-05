@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.36.2](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.36.1...v1.36.2) (2026-10-05)
+
+
+### Miscellaneous Chores
+
+* **deps:** update pre-commit hook antonbabenko/pre-commit-terraform to v1.109.2 ([#177](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/177)) ([9899c3e](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/9899c3e0dd5d260f45fa3cf081d0a2c8fd586a9a))
+* **deps:** update pre-commit hook renovatebot/pre-commit-hooks to v44.131.0 ([#178](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/178)) ([35c6a19](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/35c6a19d7a1e7c15c3ba411eb429118290aaa773))
+* **deps:** update terraform-linters/setup-tflint action to v6.3.2 ([#175](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/issues/175)) ([8be952a](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/commit/8be952a82074e91ec63799b0d5ce21e92a5e677e))
+
 ## [1.36.1](https://github.com/opzkit/terraform-aws-k8s-addons-cluster-autoscaler/compare/v1.36.0...v1.36.1) (2026-09-29)
 
 
